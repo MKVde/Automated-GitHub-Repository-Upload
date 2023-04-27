@@ -23,7 +23,7 @@ To use the GitHub Uploader, follow these steps:
 ```
 pip install PyQt5 requests
 ```
-3. Open the github_uploader.py file using a Python IDE or text editor.
+3. Open the **Automated-GitHub-Repository-Upload.py** file using a Python IDE or text editor.
 
 4. Run the script to launch the GitHub Uploader GUI.
 
