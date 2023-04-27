@@ -23,19 +23,19 @@ To use the GitHub Uploader, follow these steps:
 ```
 pip install PyQt5 requests
 ```
-3. Open the `**Automated-GitHub-Repository-Upload.py**` file using a Python IDE or text editor.
+3. Open the `Automated-GitHub-Repository-Upload.py` file using a Python IDE or text editor.
 
 4. Run the script to launch the GitHub Uploader GUI.
 
 5. Fill out the following fields:
 
-* GitHub Repository Name: The name of the GitHub repository you want to upload your files to.
-* GitHub Username: Your GitHub username.
-* Token: Your personal access token for GitHub. You can create a new token by following these [instructions](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token).
+* **GitHub Repository Name:** The name of the GitHub repository you want to upload your files to.
+* **GitHub Username:** Your GitHub username.
+* **Token:** Your personal access token for GitHub. You can create a new token by following these [**instructions**](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token).
 
-6. Click the Select Folder button to choose the folder that contains the files you want to upload.
+6. Click the **Select Folder** button to choose the folder that contains the files you want to upload.
 
-7. Click the Upload button to upload your files to GitHub.
+7. Click the **Upload** button to upload your files to GitHub.
 
 
 
